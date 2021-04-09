@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Product Backlog</title>
+    <link rel="stylesheet" href="tufte.css">
+  </head>
+  <body>
+    <h1>Product Backlog</h1>
+    <p>The Product Backlog is an emergent, ordered list of what is needed to improve the product.
+    It is the single source of work undertaken by the Scrum Team.
+    [<a href="https://scrumguides.org/scrum-guide.html#product-backlog">Scrum Guide</a>]
+    Informally, one can think of the Product Backlog as the project's prioritized to-do list,
+    a prioritized list of desired features, or the prioritized list of things that need to be
+    done in order to reach the goal or Product Vision.</p>
+    
+    <h2>Who is involved?</h2>
+    <ul>
+      <li>The <strong>Product Owner</strong> is responsible for the Product Backlog, including its content, visibility and ordering.</li>
+      <li>The Product Owner can delegate some of the product backlog management work to others and/or can consult others to provide input but remains accountable.</li>
+      <li><strong>Everyone</strong> can put something on the Product Backlog, but the Product Owner has the final say.</li>
+    </ul>
+    
+    <h2>What's in the Product Backlog?</h2>
+    The Product Backlog consists of:
+    <ol>
+      <li>A statement of the Product Goal, the long-term objective of the Scrum Team.
+      The Product Goal could be a statement of the Product Vision or it could be one piece of a larger Product Vision.</li>
+      <li>An ordered (by priority) list of Product Backlog Items (PBIs) that are needed to improve the product from where it stands today.</li>
+    </ol>
+    
+    
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    <img alt="Creative Commons License"
+         style="border-width:0"
+         src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+    <br>
+    This work is licensed under a
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+    Creative Commons Attribution 4.0 International License</a>.
+  </body>
+</html>
